@@ -1,7 +1,7 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-This Project was created on October 2 2023 by David Samuel Udokpok.
+This Project was created on October 2 2023 
 
 ### Project Title
 Udacity Bikeshare Data Analysis Project 
@@ -20,7 +20,8 @@ chicago.csv
 washington.csv
 new_york_city.csv
 
-### Credits
+### **Credits**
 I'll like to give credit to Gabriel Abayomi
 https://github.com/Adesanya07
 He inspired me and assisted me without understanding some of the concept in the project.
+I also want to thank Access Bank Nigeria PLC for sponsoring this program on Udacity
