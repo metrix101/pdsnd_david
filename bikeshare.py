@@ -55,6 +55,8 @@ def load_data(city, month, day):
     df['Month'] = df['Start Time'].dt.month
     df['Day of Week'] = df['Start Time'].dt.day_name()
     
+
+    # filtering out day and months
     if month != 'all':
         df = df[df['Month'] == month]
     
