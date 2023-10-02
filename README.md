@@ -1,5 +1,5 @@
 ### Date created
-This Project was created on October 2 2023 BY **David Samuel Udokpok.**
+This Project was created on October 2 2023 by David Samuel Udokpok.
 
 ### **Project Title**
 Udacity Bikeshare Data Analysis Project 
@@ -18,10 +18,8 @@ chicago.csv
 washington.csv
 new_york_city.csv
 
-
-### **Author**
-##D *David Morgan (Udokpok David Samuel)*
-### **Credits**
+### Credits
 I'll like to give credit to Gabriel Abayomi
 https://github.com/Adesanya07
 He inspired me and assisted me without understanding some of the concept in the project.
+I also want to thank Access Bank Nigeria PLC for sponsoring this program on Udacity
