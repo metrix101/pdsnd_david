@@ -24,7 +24,7 @@ def get_filters():
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of the week to filter by, or "all" to apply no day filter
     """
-    print('Hello! Let\'s explore some US bikeshare data!')
+    print("Hello! Let's explore some US bikeshare data!")
 
     # Get user input for the city (Chicago, New York City, Washington)
     city = ""
@@ -82,9 +82,11 @@ def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
     print('\nCalculating The Most Frequent Times of Travel...')
     start_time = time.time()
-
+    
+    print("\nThe most common Year: {}".format(df['Year'].value_counts().idxmax()))    
+     
      # # TO DO: display the most common month
-    print("\nMThe most common month: {}".format(df['Start Station'].value_counts().idxmax()))
+    print("\nThe most common month: {}".format(df['Start Station'].value_counts().idxmax()))
 
     # TO DO: display the most common day of week
 
